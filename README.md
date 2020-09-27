@@ -1,4 +1,4 @@
 # hello-world
-my learning
+learnings
 
 BISMILLAH
